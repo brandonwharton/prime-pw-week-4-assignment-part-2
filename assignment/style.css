@@ -16,6 +16,12 @@ header {
   color: indigo;
 }
 
+.image-1 img{
+  padding: 5px;
+  width: 500px;
+  height: auto;
+}
+
 .under-image h3{
   padding-left: 15px;
   background: lightblue;
