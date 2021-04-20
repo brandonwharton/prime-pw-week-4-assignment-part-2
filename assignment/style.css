@@ -9,3 +9,15 @@ header {
   color: lightgrey;
   padding:4px 0px;
 }
+
+.info h2{
+  padding-left: 15px;
+  background: palegreen;
+  color: indigo;
+}
+
+.under-image h3{
+  padding-left: 15px;
+  background: lightblue;
+  color: #444;
+}
