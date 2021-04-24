@@ -17,13 +17,35 @@ header {
 }
 
 .image-1 img{
-  padding: 5px;
-  width: 500px;
+  padding: 5px 25%;
+  width: 50%;
   height: auto;
 }
 
 .under-image h3{
-  padding-left: 15px;
+  text-align: center;
   background: lightblue;
   color: #444;
+}
+
+.popout-main {
+  background:cadetblue;
+}
+
+.image-2 img{
+  padding: 40px 25% 10px 25%;
+  width: 50%;
+  height: auto;
+
+}
+
+#explain {
+  text-align: center;
+  padding-bottom:25px;
+  font-size: 18px;
+}
+
+.footer p {
+  float: right;
+  padding-right: 10px;
 }
